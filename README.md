@@ -26,7 +26,7 @@ sc.exe control win32basesvc 128
 
 The control code will be logged using ETW.
 
-Valid user custom control codes are from 128 - 255 (http://msdn.microsoft.com/en-us/library/windows/desktop/ms683241(v=vs.85).aspx)
+Valid user custom control codes are from 128 - 255. More information [here](http://msdn.microsoft.com/en-us/library/windows/desktop/ms683241(v=vs.85).aspx).
 
 #### Using Win+Lock/Unlock
 
