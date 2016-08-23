@@ -40,6 +40,6 @@ Stop the service from the `Services` management control. Then uninstall it using
 svcsetup.exe uninstall
 ```
 
-# Licence
+# License
 
 [The MIT License](./LICENSE.md)
