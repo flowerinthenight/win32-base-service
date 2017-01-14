@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/x7wf87vv04m8t6m9/branch/master?svg=true)](https://ci.appveyor.com/project/flowerinthenight/win32-base-service/branch/master)
+
 # Skeleton Win32 service
 
 ### ETW trace
